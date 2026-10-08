@@ -1,5 +1,5 @@
 public class  dikehidupannyata{
-    public static void main(String[] args) {
+public static void main(String[] args) {
         int maxScore =500;
         int userScore=489;
         double percentase= maxScore/userScore * 100d;
@@ -51,12 +51,12 @@ public class  dikehidupannyata{
         pepleinroom++;
         pepleinroom++;
         pepleinroom++;
-    System.out.println(pepleinroom);
+System.out.println(pepleinroom);
 
 //person leave room:
         pepleinroom--;
         pepleinroom--;
-    System.out.println(pepleinroom);
+System.out.println(pepleinroom);
 
-    }
+}
 }
